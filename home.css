@@ -1,0 +1,151 @@
+/* navbar css */
+.navbar {
+  padding: 20px 30px;
+  background-color: #0c8195;
+}
+.navbar-brand {
+  font-size: 32px;
+}
+.nav-item {
+  padding: 2px 15px;
+  color: white;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: whitesmoke;
+}
+.navbar .navbar-nav .nav-link:hover {
+  color: yellow;
+}
+.nvwhite {
+  background-color: rgb(255, 255, 255);
+  border-radius: 16px;
+}
+
+/* buttons css */
+.btn1 {
+  border: 2px solid rgb(238, 208, 74);
+  border-radius: 23px;
+  padding: 8px 30px;
+  color: rgb(238, 208, 74);
+  font-weight: 800;
+}
+.btn1:hover {
+  color: white;
+  background-color: rgb(238, 208, 74);
+}
+
+.btn2 {
+  border: solid #ffc107;
+  background-color: #ffc107;
+  margin: 5px;
+  color: white;
+  font-weight: 600;
+}
+.btn2:hover {
+  color: red;
+}
+
+.btn3 {
+  border: 2px solid #ffc107;
+  border-radius: 23px;
+  font-size: 23px;
+  color: white;
+  background-color: #ffc107;
+}
+.btn3:hover {
+  color: red;
+}
+
+.btn4 {
+  border: 2px solid #ffc107;
+  border-radius: 23px;
+  font-size: 16px;
+  color: white;
+
+  background-color: #ffc107;
+}
+.btn3:hover {
+  color: red;
+}
+/* text size  */
+.gametxt {
+  color: white;
+}
+.fline {
+  font-size: 2.5rem;
+}
+.sline {
+  font-size: 4.5rem;
+}
+.tline {
+  font-size: 1rem;
+}
+.bigtxt {
+  font-size: 4rem;
+  text-align: center;
+}
+
+/* Game Changer */
+.gradientbg {
+  background: linear-gradient(170deg, #057a8d 64%, white 30%);
+  padding: 40px;
+}
+.gamechanger {
+  height: 60%;
+  padding-top: 120px;
+}
+.gameimg {
+  width: 540px;
+  height: 450px;
+}
+
+.secondcarousel {
+  padding: 30px;
+}
+.secondcarousel-bg {
+  background-color: rgb(226, 226, 226);
+  padding: 30px 0px;
+  margin: 50px 0px;
+}
+
+.lowerbar {
+  background-color: blue;
+  padding: 10px 20px;
+  overflow: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+ul li {
+  list-style-type: none;
+  float: left;
+  padding: 15px;
+}
+
+.last {
+  width: 760px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.footer {
+  background-color: rgb(39, 35, 35);
+  color: white;
+  padding: 50px;
+}
+.upperfoot,
+.lowerfoot {
+  margin: auto;
+}
+
+.fa {
+  color: #ffc107;
+  padding: 5px 10px;
+}
+
+.footer a {
+  text-decoration: none;
+}
+.footer a:hover {
+  color: red;
+}
