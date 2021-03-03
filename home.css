@@ -94,9 +94,11 @@
   height: 60%;
   padding-top: 120px;
 }
+
 .gameimg {
-  width: 540px;
-  height: 450px;
+  width: 100%;
+  object-fit: cover;
+}
 }
 
 .secondcarousel {
